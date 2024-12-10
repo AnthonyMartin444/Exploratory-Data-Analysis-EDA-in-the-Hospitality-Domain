@@ -1,7 +1,3 @@
-Based on your screenshots, I’ll prepare a detailed README for your GitHub repository related to exploratory data analysis in the hospitality domain:
-
----
-
 # Exploratory Data Analysis in the Hospitality Industry
 
 This project involves analyzing datasets from the hospitality domain to uncover insights into booking behaviors, platform usage, revenue patterns, and room occupancy. The analysis is presented in a Jupyter Notebook and includes comprehensive data cleaning, transformation, and visualization steps.
